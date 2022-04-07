@@ -1,0 +1,156 @@
+body{
+  background-color: #333333;
+  color: white;
+  font-family: 'Jacques Francois', serif;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+p{
+  font-size: 40px;
+  padding-left: 70px;
+}
+img{
+  padding-left: 70px;
+}
+#name{
+  font-size: 64px;
+  padding-top: 3%;
+  padding-left: 3%;
+}
+#heading{
+  font-size: 250px;
+  position: absolute;
+  bottom: 13%;
+  right: 32%;
+}
+#mainflower{
+  width: 1000px;
+  position: absolute;
+  bottom: 9%;
+  right: 28%;
+  opacity: 0.8;
+}
+.item{
+  font-size:80px;
+  margin-bottom: 70px;
+}
+.title{
+  font-size: 300px;
+  text-align: center;
+  margin-bottom: 180px;
+}
+.subtitle{
+  font-size: 80px;
+  padding-top: 100px;
+  padding-left: 70px;
+}
+.subtitleex{
+  font-size: 80px;
+  padding-top: 100px;
+  padding-left: 70px;
+  color: #EEDB9B;
+}
+::-webkit-scrollbar {
+  display: none;
+} /*스크롤바 안 뜨는데 스크롤은 할 수 있게 해줌*/
+
+
+#Homeshortcut{
+  font-size: 48px;
+  padding: 40px;
+}
+
+#dot1 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 55%;
+  left: 28%;
+  z-index:-1;
+}
+#dot2 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 57%;
+  right: 25%;
+  z-index:-1;
+}
+#dot3 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 55%;
+  left: 20%;
+  z-index:-1;
+}
+#dot4 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 62%;
+  right: 22%;
+  z-index:-1;
+}
+#dot5 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 55%;
+  left: 37%;
+  z-index:-1;
+}
+#dot6 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 62%;
+  right: 37%;
+  z-index:-1;
+}
+#dot7 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 55%;
+  left: 31%;
+  z-index:-1;
+}
+#dot8 {
+  height: 138px;
+  width: 138px;
+  background-color: #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  bottom: 63%;
+  right: 25%;
+  z-index:-1;
+}
+#menu{
+  width: 114px;
+  float: right;
+}
