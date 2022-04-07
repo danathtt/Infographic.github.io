@@ -1,1 +1,1 @@
-# Home.html
+# Infographic.github.io
